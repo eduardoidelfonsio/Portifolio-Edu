@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+header > nav > a {
+    color: white;
+    display: inline-block;
+    text-align: left;
+    background-color: darkblue;
+    padding: 10px;
+    border-radius: 15px;
+}
